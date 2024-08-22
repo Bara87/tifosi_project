@@ -30,6 +30,7 @@ FLUSH PRIVILEGES;
 ```mysqldump -u tifosi -p tifosi > backup.sql```
 
 ### Utilisation des Scripts  
+
 .  backup.sql : Ce script est utilisé pour sauvegarder l'intégralité de la base de données tifosi
 
 
@@ -37,3 +38,9 @@ FLUSH PRIVILEGES;
 
 
 .  backup.sql : Ce script est utilisé pour sauvegarder l'intégralité de la base de données tifosi.
+
+### Contact
+
+ Nom - @Bara_DIA - bara-2010@hotmail.fr
+
+ Lien du projet : https://github.com/Bara87/tifosi_project
