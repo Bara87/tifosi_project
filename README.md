@@ -31,7 +31,7 @@ FLUSH PRIVILEGES;
 
 ### Utilisation des Scripts  
 
-.  backup.sql : Ce script est utilisé pour sauvegarder l'intégralité de la base de données tifosi
+.  import.sql : Ce script crée la structure de la base de données tifosi avec les tables nécessaires.
 
 
 .  insert_test_data.sql : Ce script insère des données de test dans les tables pour valider le fonctionnement de la base de données.
