@@ -7,7 +7,7 @@
 - MySQL ou PostgreSQL installé localement.
 - Accès administrateur pour créer des bases de données et des utilisateurs.
 
-## Installation
+## Installation   
 
 ### 1. Créez la base de données et l'utilisateur :
 
@@ -31,5 +31,9 @@ FLUSH PRIVILEGES;
 
 ### Utilisation des Scripts  
 .  backup.sql : Ce script est utilisé pour sauvegarder l'intégralité de la base de données tifosi
+
+
 .  insert_test_data.sql : Ce script insère des données de test dans les tables pour valider le fonctionnement de la base de données.
+
+
 .  backup.sql : Ce script est utilisé pour sauvegarder l'intégralité de la base de données tifosi.
